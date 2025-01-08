@@ -27,9 +27,5 @@ The analysis reveals distinct study patterns for each student. **Swara demonstra
 
 **By combining these insights, educators and students can work together to develop personalized study plans that optimize learning effectiveness, time management, and overall academic success.** 
 
-**Instructions:**
 
-1.  Ensure you have the required libraries installed (Pandas, NumPy, Matplotlib, and DateTime). 
-2.  Replace 'timeSheet.csv' with the actual file name of your study data. 
-3.  Run the code to generate visualizations and analyze the data.
 
