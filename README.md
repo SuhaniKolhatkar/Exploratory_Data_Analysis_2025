@@ -1,5 +1,7 @@
 # Exploratory_Data_Analysis_2025
 This file provides a Python code for analyzing student study data, with a focus on understanding individual study habits and preferences. 
+![compPT](https://github.com/user-attachments/assets/9414ca9f-36f4-4864-8c6e-92e7ba6aef57)
+
 
 **The code processes and analyzes a CSV file named 'timeSheet.csv', which contains information about student study sessions, including the subject, start and end times, and a Rate of Perceived Exertion (RPE) value**. The code utilizes the Pandas, NumPy, Matplotlib, and DateTime libraries to perform various data manipulations, calculations, and visualizations. 
 
